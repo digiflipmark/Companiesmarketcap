@@ -45,7 +45,7 @@ class First2Fragment : Fragment() {
     ): View {
 
         _binding = FragmentFirst2Binding.inflate(inflater, container, false)
-
+////
         return binding.root
 
     }
